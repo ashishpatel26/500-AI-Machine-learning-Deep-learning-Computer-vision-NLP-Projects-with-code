@@ -27,7 +27,7 @@
 | 19    | 5 COVID19 Projects with Python                               | [is.gd/xFCnYi](http://is.gd/xFCnYi) |
 | 20    | 9 Computer Vision Project with python                        | [is.gd/lrNybj](http://is.gd/lrNybj) |
 | 21    | 8 Neural Network Project with python                         | [is.gd/FCyOOf](is.gd/FCyOOf)        |
-| 22    | 5 Machine learning Project for healthcare                    | [is.gd/UfBskI](is.gd/UfBskI)        |
+| 22    | 5 Machine learning Project for healthcare                    | https://bit.ly/3b86bOH              |
 | 23    | 5 NLP Project with Python                                    | [is.gd/HV8GHH](is.gd/HV8GHH)        |
 | 24    | 47 Machine Learning Projects for 2021                        | https://bit.ly/356bjiC              |
 | 25    | 19 Artificial Intelligence Projects for 2021                 | https://bit.ly/38aLgsg              |
@@ -68,4 +68,5 @@
 | 60    | 100 + NLP dataset for your Projects                          | https://bit.ly/353h2Wc              |
 | 61    | 364 + Machine Learning Projects definition                   | https://bit.ly/2X5QRdb              |
 | 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | https://bit.ly/387JwjC              |
+| 63    | 1000 + Machine learning Projects Information                 | https://bit.ly/3rMGk4N              |
 
