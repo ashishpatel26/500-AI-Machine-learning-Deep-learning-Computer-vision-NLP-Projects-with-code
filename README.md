@@ -29,5 +29,31 @@
 | 21    | 8 Neural Network Project with python                         | [is.gd/FCyOOf](is.gd/FCyOOf)        |
 | 22    | 5 Machine learning Project for healthcare                    | [is.gd/UfBskI](is.gd/UfBskI)        |
 | 23    | 5 NLP Project with Python                                    | [is.gd/HV8GHH](is.gd/HV8GHH)        |
-|       |                                                              |                                     |
+| 24    | 47 Machine Learning Projects for 2021                        | https://bit.ly/356bjiC              |
+| 25    | 19 Artificial Intelligence Projects for 2021                 | https://bit.ly/38aLgsg              |
+| 26    | 28 Machine learning Projects for 2021                        | https://bit.ly/3bguRF1              |
+| 27    | 16 Data Science Projects with Source Code for 2021           | https://bit.ly/3oa4zYD              |
+| 28    | 24 Deep learning Projects with Source Code for 2021          | https://bit.ly/3rQrOsU              |
+| 29    | 25 Computer Vision Projects with Source Code for 2021        | https://bit.ly/2JDMO4I              |
+| 30    | 23 Iot Projects with Source Code for 2021                    | https://bit.ly/354gT53              |
+| 31    | 27 Django Projects with Source Code for 2021                 | https://bit.ly/2LdRPRZ              |
+| 32    | 37 Python Fun Projects with Code for 2021                    | https://bit.ly/3hBHzz4              |
+| 33    | 500 + Top Deep learning Codes                                | https://bit.ly/3n7AkAc              |
+| 34    | 500 + Machine learning Codes                                 | https://bit.ly/3b32n13              |
+| 35    | 20+ Machine Learning Datasets & Project Ideas                | https://bit.ly/3b2J48c              |
+| 36    | 1000+ Computer vision codes                                  | https://bit.ly/2LiX1nv              |
+| 37    | 300 + Industry wise Real world projects with code            | https://bit.ly/3rN7lVR              |
+| 38    | 1000 + Python Project Codes                                  | https://bit.ly/3oca2xM              |
+| 39    | 363 + NLP Project with Code                                  | https://bit.ly/3b442DO              |
+| 40    | 50 + Code ML Models (For iOS 11) Projects                    | https://bit.ly/389dB2s              |
+| 41    | 180 + Pretrained Model Projects for Image, text, Audio and Video | https://bit.ly/3hFyQMw              |
+| 42    | 50 + Graph Classification Project List                       | https://bit.ly/3rOYFhH              |
+| 43    | 100 + Sentence Embedding(NLP Resources)                      | https://bit.ly/355aS8c              |
+| 44    | 100 + Production Machine learning Projects                   | https://bit.ly/353ckI0              |
+| 45    | 300 + Machine Learning Resources Collection                  | https://bit.ly/3b2LjIE              |
+| 46    | 70 + Awesome AI                                              | https://bit.ly/3hDIXkD              |
+| 47    | 150 + Machine learning Project Ideas with code               | https://bit.ly/38bfpbg              |
+| 48    | 100 + AutoML Projects with code                              | https://bit.ly/356zxZX              |
+| 49    | 100 + Machine Learning Model Interpretability Code Frameworks | https://bit.ly/3n7FaNB              |
+| 50    | 120 + Multi Model Machine learning Code Projects             | https://bit.ly/38QRI76              |
 
