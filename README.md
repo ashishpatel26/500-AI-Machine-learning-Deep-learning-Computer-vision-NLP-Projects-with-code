@@ -66,4 +66,6 @@
 | 58    | 200 + Awesome NLP learning Collection                        | https://bit.ly/3b74b9o              |
 | 59    | 200 + The Super Duper NLP Repo                               | https://bit.ly/3hDNnbd              |
 | 60    | 100 + NLP dataset for your Projects                          | https://bit.ly/353h2Wc              |
+| 61    | 364 + Machine Learning Projects definition                   | https://bit.ly/2X5QRdb              |
+| 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | https://bit.ly/387JwjC              |
 
