@@ -28,7 +28,7 @@
 | 20    | 9 Computer Vision Project with python                        | [is.gd/lrNybj](http://is.gd/lrNybj) |
 | 21    | 8 Neural Network Project with python                         | [is.gd/FCyOOf](is.gd/FCyOOf)        |
 | 22    | 5 Machine learning Project for healthcare                    | https://bit.ly/3b86bOH              |
-| 23    | 5 NLP Project with Python                                    | [is.gd/HV8GHH](is.gd/HV8GHH)        |
+| 23    | 5 NLP Project with Python                                    | https://bit.ly/3hExtNS              |
 | 24    | 47 Machine Learning Projects for 2021                        | https://bit.ly/356bjiC              |
 | 25    | 19 Artificial Intelligence Projects for 2021                 | https://bit.ly/38aLgsg              |
 | 26    | 28 Machine learning Projects for 2021                        | https://bit.ly/3bguRF1              |
