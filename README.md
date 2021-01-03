@@ -2,7 +2,7 @@
 
 *500 AI Machine learning Deep learning Computer vision NLP Projects with code*
 
-***This list is continuously updated.*** - You can take pull and more projects.
+***This list is continuously updated.*** - You can take pull request and contribute.
 
 | Sr No | Name                                                         | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
