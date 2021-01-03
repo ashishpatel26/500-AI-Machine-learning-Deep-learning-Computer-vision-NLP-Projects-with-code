@@ -56,4 +56,14 @@
 | 48    | 100 + AutoML Projects with code                              | https://bit.ly/356zxZX              |
 | 49    | 100 + Machine Learning Model Interpretability Code Frameworks | https://bit.ly/3n7FaNB              |
 | 50    | 120 + Multi Model Machine learning Code Projects             | https://bit.ly/38QRI76              |
+| 51    | Awesome Chatbot Projects                                     | https://bit.ly/3rQyxmE              |
+| 52    | Awesome ML Demo Project with iOS                             | https://bit.ly/389hZOY              |
+| 53    | 100 + Python based Machine learning Application Projects     | https://bit.ly/3n9zLWv              |
+| 54    | 100 + Reproducible Research Projects of ML and DL            | https://bit.ly/2KQ0J8C              |
+| 55    | 25 + Python Projects                                         | https://bit.ly/353fRpK              |
+| 56    | 8 + OpenCV Projects                                          | https://bit.ly/389mj0B              |
+| 57    | 1000 + Awesome Deep learning Collection                      | https://bit.ly/3b0a9Jj              |
+| 58    | 200 + Awesome NLP learning Collection                        | https://bit.ly/3b74b9o              |
+| 59    | 200 + The Super Duper NLP Repo                               | https://bit.ly/3hDNnbd              |
+| 60    | 100 + NLP dataset for your Projects                          | https://bit.ly/353h2Wc              |
 
