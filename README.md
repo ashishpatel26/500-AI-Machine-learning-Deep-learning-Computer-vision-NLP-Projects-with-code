@@ -76,4 +76,5 @@
 | 68.   | OpenCV Computer Vision Projects with Python                  | https://bit.ly/38jmGpn              |
 | 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
+| 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
 
