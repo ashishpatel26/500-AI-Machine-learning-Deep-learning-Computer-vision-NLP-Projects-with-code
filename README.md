@@ -69,4 +69,11 @@
 | 61    | 364 + Machine Learning Projects definition                   | https://bit.ly/2X5QRdb              |
 | 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | https://bit.ly/387JwjC              |
 | 63    | 1000 + Machine learning Projects Information                 | https://bit.ly/3rMGk4N              |
+| 64.   | 11 Computer Vision Projects with code                        | https://bit.ly/38gz2OR              |
+| 65.   | 13 Computer Vision Projects with Code                        | https://bit.ly/3hMJdhh              |
+| 66.   | 13 Cool Computer Vision GitHub Projects To Inspire You       | https://bit.ly/2LrSv6d              |
+| 67.   | Open-Source Computer Vision Projects (With Tutorials)        | https://bit.ly/3pUss6U              |
+| 68.   | OpenCV Computer Vision Projects with Python                  | https://bit.ly/38jmGpn              |
+| 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
+| 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 
