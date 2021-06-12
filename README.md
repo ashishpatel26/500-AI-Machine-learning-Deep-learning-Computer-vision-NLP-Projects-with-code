@@ -6,27 +6,27 @@
 
 | Sr No | Name                                                         | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
-| 1     | 180 Machine learning Project                                 | [is.gd/MLtyGk](http://is.gd/MLtyGk) |
-| 2     | 12 Machine learning Object Detection                         | [is.gd/jZMP1A](http://is.gd/jZMP1A) |
-| 3     | 20 NLP Project with Python                                   | [is.gd/jcMvjB](http://is.gd/jcMvjB) |
-| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [is.gd/dOR66m](http://is.gd/dOR66m) |
-| 5     | 20 Deep Learning Projects Solved and Explained with Python   | [is.gd/8Cv5EP](http://is.gd/8Cv5EP) |
-| 6     | 20 Machine learning Project                                  | [is.gd/LZTF0J](http://is.gd/LZTF0J) |
+| 1     | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
+| 2     | 12 Machine learning Object Detection                         | https://bit.ly/3zop6hM              |
+| 3     | 20 NLP Project with Python                                   | https://bit.ly/3gx7tUJ              |
+| 4     | 10 Machine Learning Projects on Time Series Forecasting      | https://bit.ly/3gq4hdn              |
+| 5     | 20 Deep Learning Projects Solved and Explained with Python   | https://bit.ly/2U2nMRK              |
+| 6     | 20 Machine learning Project                                  | https://bit.ly/3zlnDJh              |
 | 7     | 30 Python Project Solved and Explained                       | [is.gd/xhT36v](http://is.gd/xhT36v) |
-| 8     | Machine learning Course for Free                             | https://lnkd.in/ekCY8xw             |
-| 9     | 5 Web Scraping Projects with Python                          | [is.gd/6XOTSn](http://is.gd/6XOTSn) |
-| 10    | 20 Machine Learning Projects on Future Prediction with Python | [is.gd/xDKDkl](http://is.gd/xDKDkl) |
-| 11    | 4 Chatbot Project With Python                                | [is.gd/LyZfXv](http://is.gd/LyZfXv) |
-| 12    | 7 Python Gui project                                         | [is.gd/0KPBvP](http://is.gd/0KPBvP) |
-| 13    | All Unsupervised learning Projects                           | [is.gd/cz11Kv](http://is.gd/cz11Kv) |
-| 14    | 10 Machine learning Projects for Regression Analysis         | [is.gd/k8faV1](http://is.gd/k8faV1) |
-| 15    | 10 Machine learning Project for Classification with Python   | [is.gd/BJQjMN](http://is.gd/BJQjMN) |
-| 16    | 6 Sentimental Analysis Projects with python                  | [is.gd/WeiE5p](http://is.gd/WeiE5p) |
-| 17    | 4 Recommendations Projects with Python                       | [is.gd/pPHAP8](http://is.gd/pPHAP8) |
-| 18    | 20 Deep learning Project with python                         | [is.gd/l3OCJs](http://is.gd/l3OCJs) |
-| 19    | 5 COVID19 Projects with Python                               | [is.gd/xFCnYi](http://is.gd/xFCnYi) |
-| 20    | 9 Computer Vision Project with python                        | [is.gd/lrNybj](http://is.gd/lrNybj) |
-| 21    | 8 Neural Network Project with python                         | [is.gd/FCyOOf](is.gd/FCyOOf)        |
+| 8     | Machine learning Course for Free                             | https://bit.ly/3cxFXVK              |
+| 9     | 5 Web Scraping Projects with Python                          | https://bit.ly/3gwJIMr              |
+| 10    | 20 Machine Learning Projects on Future Prediction with Python | https://bit.ly/3iOtf9h              |
+| 11    | 4 Chatbot Project With Python                                | https://bit.ly/3xcwBGX              |
+| 12    | 7 Python Gui project                                         | https://bit.ly/2SsEqti              |
+| 13    | All Unsupervised learning Projects                           | https://bit.ly/35caNPB              |
+| 14    | 10 Machine learning Projects for Regression Analysis         | https://bit.ly/3iHbqJb              |
+| 15    | 10 Machine learning Project for Classification with Python   | https://bit.ly/3gr7YPW              |
+| 16    | 6 Sentimental Analysis Projects with python                  | https://bit.ly/3xjNxLt              |
+| 17    | 4 Recommendations Projects with Python                       | https://bit.ly/3pKhdPv              |
+| 18    | 20 Deep learning Project with python                         | https://bit.ly/3cBHrOI              |
+| 19    | 5 COVID19 Projects with Python                               | https://bit.ly/3xl7jqf              |
+| 20    | 9 Computer Vision Project with python                        | https://bit.ly/2Sm1LNq              |
+| 21    | 8 Neural Network Project with python                         | https://bit.ly/3vbsn0M              |
 | 22    | 5 Machine learning Project for healthcare                    | https://bit.ly/3b86bOH              |
 | 23    | 5 NLP Project with Python                                    | https://bit.ly/3hExtNS              |
 | 24    | 47 Machine Learning Projects for 2021                        | https://bit.ly/356bjiC              |
@@ -77,4 +77,17 @@
 | 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 | 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
+| 72    | Data Analysis and Machine learning Projects                  | https://bit.ly/2SwOfGx              |
+| 73    | AI Projects                                                  | https://bit.ly/3znT0CU              |
+| 74    | Kaggle projects collection                                   | https://bit.ly/3xl7GB9              |
+| 75    | Unique AI projects                                           | https://bit.ly/3iylJyT              |
+| 76    | Data Science Project Collection                              | https://bit.ly/2SvZtv5              |
+| 77    | Advance Data Science Projects                                | https://bit.ly/3grmqHQ              |
+| 78    | Deep and Machine learning Projects                           | https://bit.ly/3cDlsXL              |
+| 79    | Data Science Projects kaggle                                 | https://bit.ly/3xl7GB9              |
+| 80    | Auto Deep learning Project                                   | https://bit.ly/3gyLEEi              |
+
+***More Projects list is coming...!!!***
+
+---
 
