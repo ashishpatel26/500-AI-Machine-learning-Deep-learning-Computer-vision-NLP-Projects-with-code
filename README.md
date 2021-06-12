@@ -89,6 +89,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 79    | Data Science Projects kaggle                                 | https://bit.ly/3xl7GB9              |
 | 80    | Auto Deep learning Project                                   | https://bit.ly/3gyLEEi              |
 | 81    | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
+| 82    | Amazing Hackthon Project Collection                          | https://bit.ly/35gPz3f              |
 
 ***More Projects list is coming...!!!***
 
