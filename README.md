@@ -6,7 +6,7 @@
 
 | Sr No | Name                                                         | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
-| 1     | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
+| 1     | 365 Days Computer Vision Learning                            | https://bit.ly/3ixiyaR              |
 | 2     | 12 Machine learning Object Detection                         | https://bit.ly/3zop6hM              |
 | 3     | 20 NLP Project with Python                                   | https://bit.ly/3gx7tUJ              |
 | 4     | 10 Machine Learning Projects on Time Series Forecasting      | https://bit.ly/3gq4hdn              |
@@ -86,6 +86,7 @@
 | 78    | Deep and Machine learning Projects                           | https://bit.ly/3cDlsXL              |
 | 79    | Data Science Projects kaggle                                 | https://bit.ly/3xl7GB9              |
 | 80    | Auto Deep learning Project                                   | https://bit.ly/3gyLEEi              |
+| 81    | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
 
 ***More Projects list is coming...!!!***
 
