@@ -90,6 +90,14 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 80    | Auto Deep learning Project                                   | https://bit.ly/3gyLEEi              |
 | 81    | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
 | 82    | Amazing Hackthon Project Collection                          | https://bit.ly/35gPz3f              |
+| 83    | Awesome NLP Project Ideas                                    | https://bit.ly/3xgcckC              |
+| 84    | 12 NLP Projects                                              | https://bit.ly/36eeDrU              |
+| 85    | Advance NLP Projects                                         | https://bit.ly/3qQmmWB              |
+| 86    | 6 Amazing NLP Projects                                       | https://bit.ly/2SNfJYE              |
+| 87    | NLP Beginner Projects                                        | https://bit.ly/3xocs1c              |
+| 88    | Paper with Code by PwC Collection                            | https://bit.ly/3qSKpEr              |
+| 89    | SOTA Models(State of the Art Results)                        | https://bit.ly/2UoM6NY              |
+| 90    | Best AI Papers                                               | https://bit.ly/3hi6lWs              |
 
 ***More Projects list is coming...!!!***
 
