@@ -98,6 +98,16 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 88    | Paper with Code by PwC Collection                            | https://bit.ly/3qSKpEr              |
 | 89    | SOTA Models(State of the Art Results)                        | https://bit.ly/2UoM6NY              |
 | 90    | Best AI Papers                                               | https://bit.ly/3hi6lWs              |
+| 91    | Generative Adversarial nets                                  | https://bit.ly/3qVw3Dl              |
+| 92    | Computer Vision Paper with Code                              | https://bit.ly/3hiY2JZ              |
+| 93    | NILMS Paper with code                                        | https://bit.ly/3hgorbp              |
+| 94    | 3D Computer Vision Research Projects                         | https://bit.ly/3qMplPS              |
+| 95    | NLP and Computer Vision Project Collection                   | https://bit.ly/3qP15ga              |
+| 96    | Udacity Collection of Computer Vision Projects               | https://bit.ly/36egEV0              |
+| 97    | Zero to Hero Tensorflow Tutorial                             | https://bit.ly/3hjcbqH              |
+| 98    | Deep learning in Production                                  | https://bit.ly/3qPzqMf              |
+| 99    | GANs Collection                                              | https://bit.ly/3hgcvGu              |
+| 100   | Time Series Projects Code                                    | https://bit.ly/3weCjat              |
 
 ***More Projects list is coming...!!!***
 
