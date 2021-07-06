@@ -108,6 +108,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 98    | Deep learning in Production                                  | https://bit.ly/3qPzqMf              |
 | 99    | GANs Collection                                              | https://bit.ly/3hgcvGu              |
 | 100   | Time Series Projects Code                                    | https://bit.ly/3weCjat              |
+| 101   | 7 + Hyperparameter Optimization Methods For Machine Learning | https://bit.ly/2VcRRyB              |
 
 ***More Projects list is coming...!!!***
 
