@@ -1,0 +1,9 @@
+delete target : https-github.com/website:https://github.com/rysceaaed/improved-webs
+
+target = github.com/repo/rysceaaed/improved-webs/repos
+
+if (target-isdeleted)
+
+set 1 to 16 1
+
+1% battery
