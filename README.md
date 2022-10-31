@@ -112,7 +112,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 100   | Time Series Projects Code                                    | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) |
 | 101   | 12 Machine learning Object Detection                         | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37) |
 | 102   | 20 NLP Project with Python                                   | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
-
+| 103   | 180 Data Science and Machine learning projects with Python                                    | [![](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9) |
 ***More Projects list is coming...!!!***
 
 ---
