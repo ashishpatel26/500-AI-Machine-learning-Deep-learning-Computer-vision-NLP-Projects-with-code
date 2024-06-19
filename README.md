@@ -1,4 +1,7 @@
 ## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+### Sponsor
+
+Thank you to [Roboflow](https://roboflow.com/) for supporting our work. Over 500,000 developers and machine learning engineers use Roboflow to build and deploy computer vision models. 
 
 ***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 
