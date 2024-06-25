@@ -1,7 +1,7 @@
 ## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 ### Sponsor
 
-Thank you to [Roboflow](https://roboflow.com/?ref=tensorrt_demos) for supporting our work. Over 500,000 developers and machine learning engineers use Roboflow to build and deploy computer vision models. 
+Thank you to [Roboflow](https://roboflow.com/?ref=500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) for supporting our work. Over 500,000 developers and machine learning engineers use Roboflow to build and deploy computer vision models. 
 [![roboflow_full_logo_color](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/assets/173217521/89f2b5c0-ead0-48e9-b8a2-03cb6a1fae4c)
 
 
