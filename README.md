@@ -91,7 +91,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 79    | Data Science Projects kaggle                                 | [👆](https://github.com/alexattia/Data-Science-Projects)      |
 | 80    | Auto Deep learning Project                                   | [👆](https://github.com/D-X-Y/AutoDL-Projects)                |
 | 81    | 180 Machine learning Project                                 | [👆](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9) |
-| 82    | Amazing Hackthon Project Collection                          | [👆](https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions) |
+| 82    | Amazing Hackathon Project Collection                         | [👆](https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions) |
 | 83    | Awesome NLP Project Ideas                                    | [👆](https://nirantk.com/awesome-project-ideas/)              |
 | 84    | 12 NLP Projects                                              | [👆](https://github.com/gaoisbest/NLP-Projects)               |
 | 85    | Advance NLP Projects                                         | [👆](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0) |
