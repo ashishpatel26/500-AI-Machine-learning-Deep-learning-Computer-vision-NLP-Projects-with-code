@@ -113,7 +113,9 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 101   | 12 Machine learning Object Detection                         | [👆](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37) |
 | 102   | 20 NLP Project with Python                                   | [👆](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
 | 103   | Learning Material for Deep Learning, ML, Computer Vision and NLP   | [👆](https://github.com/kmario23/deep-learning-drizzle) |
+| 104   | 10 foundational Artificial Neural Network (ANN) projects     | [👆](https://github.com/ARUNAGIRINATHAN-K/neural-networks-from-scratch-math-projects) |
 ***More Projects list is coming...!!!***
 
 ---
+
 
