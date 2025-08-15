@@ -114,8 +114,11 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 102   | 20 NLP Project with Python                                   | [👆](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
 | 103   | Learning Material for Deep Learning, ML, Computer Vision and NLP   | [👆](https://github.com/kmario23/deep-learning-drizzle) |
 | 104   | 10 foundational Artificial Neural Network (ANN) projects     | [👆](https://github.com/ARUNAGIRINATHAN-K/neural-networks-from-scratch-math-projects) |
+| 105   | 5 Intermediate DataScience Projects                          | [👆](https://github.com/ARUNAGIRINATHAN-K/Intermediate-Data-Science-Projects) |
+| 106   | Python Projects For Beginners and Advanced Level             | [👆](https://github.com/ARUNAGIRINATHAN-K/Python-Projects-For-Beginners-and-Advanced-Level) |
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
