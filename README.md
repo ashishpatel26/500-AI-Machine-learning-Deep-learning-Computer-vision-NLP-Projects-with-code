@@ -13,7 +13,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 1     | 365 Days Computer Vision Learning                            | [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
 | 2     | 125+ NLP Language Models Treasure of Transformers            | [👆](https://github.com/ashishpatel26/Treasure-of-Transformers) |
 | 3     | Andrew NG ML notes                                           | [👆](https://github.com/ashishpatel26/Andrew-NG-Notes)        |
-| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [👆](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
+| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [👆](https://medium.com/coders-camp/10-machine-learning-projects-on-time-series-forecasting-ee0368420ccd) |
 | 5     | 20 Deep Learning Projects Solved and Explained with Python   | [👆](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/) |
 | 6     | 20 Machine learning Project                                  | [👆](https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1) |
 | 7     | 30 Python Project Solved and Explained                       | [👆](https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003) |
@@ -73,14 +73,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 61    | 364 + Machine Learning Projects definition                   | [👆](https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/) |
 | 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | [👆](https://github.com/giswqs/earthengine-py-notebooks)      |
 | 63    | 1000 + Machine learning Projects Information                 | [👆](https://1000projects.org/projects/machine-learning-projects) |
-| 64.   | 11 Computer Vision Projects with code                        | [👆](https://github.com/akshaybhatia10/ComputerVision-Projects) |
-| 65.   | 13 Computer Vision Projects with Code                        | [👆](https://github.com/anuragreddygv323/computer-vision-projects) |
-| 66.   | 13 Cool Computer Vision GitHub Projects To Inspire You       | [👆](https://machinelearningknowledge.ai/cool-computer-vision-github-projects-to-inspire-you/) |
-| 67.   | Open-Source Computer Vision Projects (With Tutorials)        | [👆](https://www.theclickreader.com/open-source-computer-vision-projects-with-tutorials/) |
-| 68.   | OpenCV Computer Vision Projects with Python                  | [👆](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python) |
-| 69.   | 100 + Computer vision Algorithm Implementation               | [👆](https://github.com/gmalivenko/awesome-computer-vision-models) |
-| 70.   | 80 + Computer vision Learning code                           | [👆](https://github.com/spmallick/learnopencv)                |
-| 71.   | Deep learning Treasure                                       | [👆](https://github.com/kmario23/deep-learning-drizzle)       |
+| 64    | 11 Computer Vision Projects with code                        | [👆](https://github.com/akshaybhatia10/ComputerVision-Projects) |
+| 65    | 13 Computer Vision Projects with Code                        | [👆](https://github.com/anuragreddygv323/computer-vision-projects) |
+| 66    | 13 Cool Computer Vision GitHub Projects To Inspire You       | [👆](https://machinelearningknowledge.ai/cool-computer-vision-github-projects-to-inspire-you/) |
+| 67    | Open-Source Computer Vision Projects (With Tutorials)        | [👆](https://www.theclickreader.com/open-source-computer-vision-projects-with-tutorials/) |
+| 68    | OpenCV Computer Vision Projects with Python                  | [👆](https://github.com/PacktPublishing/OpenCV-Computer-Vision-Projects-with-Python) |
+| 69    | 100 + Computer vision Algorithm Implementation               | [👆](https://github.com/gmalivenko/awesome-computer-vision-models) |
+| 70    | 80 + Computer vision Learning code                           | [👆](https://github.com/spmallick/learnopencv)                |
+| 71    | Deep learning Treasure                                       | [👆](https://github.com/kmario23/deep-learning-drizzle)       |
 | 72    | Data Analysis and Machine learning Projects                  | [👆](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) |
 | 73    | AI Projects                                                  | [👆](https://github.com/StevenLei2017/AI_projects)            |
 | 74    | Kaggle projects collection                                   | [👆](https://github.com/alexattia/Data-Science-Projects)      |
