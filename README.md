@@ -1,3 +1,10 @@
+Disclaimer and Personal Statements of Tech Transfers from USA to PRC!
+
+U.S. EAR restricts AI exports (e.g., model weights >10^25 FLOP, ECCN 4E091) to PRC/Entity List.
+Check license needs: bis.doc.gov/ear. Report issues to compliance.
+
+Even if not controlled, I protest unauthorized sharing—protect U.S. security, in accordance with my rights to 1st Amendment.
+
 ## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
 ***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
@@ -116,4 +123,5 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 ***More Projects list is coming...!!!***
 
 ---
+
 
