@@ -1,3 +1,26 @@
+# My Project: Student Performance Predictor
+
+This project predicts student marks using Machine Learning.
+
+## Features
+- Predict marks using:
+  - Study hours
+  - Sleep hours
+  - Attendance
+- Smart suggestions
+- Graph visualization
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Files
+- MLpython.py
+- dataset.csv
+
+  
 ## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
 ***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
