@@ -116,4 +116,5 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 ***More Projects list is coming...!!!***
 
 ---
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent AI orchestration: 49 production system prompts for Claude Code with task registry, quality gates, and automated delegation. MIT licensed.
 
