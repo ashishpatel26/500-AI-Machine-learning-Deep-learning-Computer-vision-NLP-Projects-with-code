@@ -1,0 +1,15 @@
+name = "mrl-sig-verify"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+workers_dev = true
+
+# Signing endpoint requires SIGN_SECRET to be set via:
+#   wrangler secret put SIGN_SECRET
+# (Verifying is public — anyone can call POST /verify without auth.)
+
+[[kv_namespaces]]
+binding = "MRL_SIG_KEYS"
+id = "REPLACE_WITH_KV_ID"
+
+[observability]
+enabled = true

@@ -1,0 +1,9 @@
+[Unit]
+Description=MRL AI System aggregate target (particle-boot)
+Documentation=file:/opt/mrl/ai-system/MRL_AI_SYSTEM/particles/boot/boot.manifest.json
+Requires=mrl-sig-verify.service mrl-system-hub.service
+Wants=mrl-doctor.service mrl-smartbody.service
+After=network-online.target
+
+[Install]
+WantedBy=multi-user.target

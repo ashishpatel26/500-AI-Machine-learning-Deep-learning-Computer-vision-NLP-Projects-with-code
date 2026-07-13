@@ -1,0 +1,44 @@
+{
+  "origin_signature": "MrliouAI",
+  "manifest_version": "1.0.0",
+  "description": "Ordered launcher manifest for MRL particle daemons.",
+  "boot_order": [
+    {
+      "name": "sig_verify",
+      "particle": "particles/sig_verify/mrl_sig_verify.py",
+      "wait_for": "http://127.0.0.1:8801/health",
+      "layer": "L0",
+      "critical": true,
+      "restart_max": 3
+    },
+    {
+      "name": "system_hub",
+      "particle": "particles/system_hub/mrl_system_hub.py",
+      "wait_for": "http://127.0.0.1:9000/health",
+      "layer": "L6",
+      "critical": true,
+      "restart_max": 3,
+      "depends_on": ["sig_verify"]
+    },
+    {
+      "name": "doctor",
+      "particle": "particles/doctor/mrl_doctor.py",
+      "wait_for": "http://127.0.0.1:8788/health",
+      "layer": "L5",
+      "critical": false,
+      "restart_max": 5,
+      "depends_on": ["system_hub"]
+    },
+    {
+      "name": "smartbody_v2",
+      "particle": "particles/smartbody_v2/mrl_smartbody.py",
+      "wait_for": "http://127.0.0.1:8787/health",
+      "layer": "L4",
+      "critical": false,
+      "restart_max": 5,
+      "depends_on": ["doctor"]
+    }
+  ],
+  "checkpoint_dir": "/var/lib/mrl/boot/checkpoints",
+  "rollback_policy": "fail_stop_on_critical"
+}

@@ -1,0 +1,24 @@
+[Unit]
+Description=MRL particle-system-hub (brain, 800AI orchestrator + MemoryVault)
+Requires=mrl-sig-verify.service
+After=mrl-sig-verify.service
+PartOf=mrl.target
+
+[Service]
+Type=simple
+User=mrl
+Group=mrl
+Environment=MRL_HUB_HOST=127.0.0.1
+Environment=MRL_HUB_PORT=9000
+Environment=MRL_HUB_DB=/var/lib/mrl/system_hub/memory.sqlite3
+Environment=MRL_TRACE_JOURNAL=/var/lib/mrl/trace/journal.jsonl
+ExecStart=/usr/bin/env python3 /opt/mrl/ai-system/MRL_AI_SYSTEM/particles/system_hub/mrl_system_hub.py
+Restart=on-failure
+RestartSec=5s
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/var/lib/mrl
+
+[Install]
+WantedBy=mrl.target

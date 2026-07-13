@@ -1,0 +1,15 @@
+name = "mrl-auth-gateway"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+workers_dev = true
+
+[vars]
+BACKEND_URL = "https://ai-gateway.mrliouword.com"
+MRL_PUBLIC_KEY_B64 = ""
+
+# JWT secret is set via: wrangler secret put AUTH_JWT_SECRET
+# KV audit log is set via wrangler dashboard, binding name MRL_AUTH_AUDIT.
+
+[[kv_namespaces]]
+binding = "MRL_AUTH_AUDIT"
+id = "REPLACE_WITH_KV_ID"

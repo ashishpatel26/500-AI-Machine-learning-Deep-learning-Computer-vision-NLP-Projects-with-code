@@ -1,0 +1,9 @@
+{
+  "name": "mrl-sig-verify",
+  "version": "1.0.0",
+  "description": "Ed25519 sign/verify CF Worker — replacement for particle-sig-verify stub",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/roundtrip.test.js"
+  }
+}

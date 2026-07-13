@@ -1,0 +1,12 @@
+# runtime state — never commit
+tests/.artifacts/
+relay_station/data/inbox/MRL_*.json
+relay_station/data/outbox/MRL_*.json
+relay_station/data/ledger/*.jsonl
+relay_station/data/state/*
+!relay_station/data/**/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/

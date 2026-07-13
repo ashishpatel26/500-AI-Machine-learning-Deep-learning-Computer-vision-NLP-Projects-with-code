@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        compiler: [g++-11, g++-12, clang++-14, clang++-15]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install compiler
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ${{ matrix.compiler }}
+
+    - name: Build and test
+      run: |
+        ${{ matrix.compiler }} -std=c++17 -O3 -I include -o test tests/test_tieredsort.cpp
+        ./test
+
+    - name: Build benchmark (compile only)
+      run: |
+        ${{ matrix.compiler }} -std=c++17 -O3 -I include -o run_benchmark benchmark/benchmark.cpp
+
+  build-macos:
+    runs-on: macos-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Build and test
+      run: |
+        clang++ -std=c++17 -O3 -I include -o test tests/test_tieredsort.cpp
+        ./test
+
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup MSVC
+      uses: ilammy/msvc-dev-cmd@v1
+
+    - name: Build and test (MSVC)
+      run: |
+        cl /std:c++17 /O2 /EHsc /I include /Fe:test.exe tests/test_tieredsort.cpp
+        .\test.exe
+      shell: cmd
+
+  build-cmake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Configure CMake
+      run: cmake -B build -DTIEREDSORT_BUILD_TESTS=ON -DTIEREDSORT_BUILD_BENCHMARKS=ON
+
+    - name: Build
+      run: cmake --build build --config Release
+
+    - name: Test
+      run: cd build && ctest --output-on-failure

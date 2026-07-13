@@ -1,0 +1,25 @@
+[Unit]
+Description=MRL particle-doctor (health monitor)
+Requires=mrl-system-hub.service
+After=mrl-system-hub.service
+PartOf=mrl.target
+
+[Service]
+Type=simple
+User=mrl
+Group=mrl
+Environment=MRL_DOCTOR_HOST=127.0.0.1
+Environment=MRL_DOCTOR_PORT=8788
+Environment=MRL_DOCTOR_INTERVAL=15
+Environment=MRL_DOCTOR_SYSTEMD=1
+Environment=MRL_TRACE_JOURNAL=/var/lib/mrl/trace/journal.jsonl
+ExecStart=/usr/bin/env python3 /opt/mrl/ai-system/MRL_AI_SYSTEM/particles/doctor/mrl_doctor.py
+Restart=on-failure
+RestartSec=5s
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/var/lib/mrl
+
+[Install]
+WantedBy=mrl.target

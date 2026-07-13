@@ -1,0 +1,13 @@
+{
+  "name": "mrl-particle-mother-relaystation-v1",
+  "version": "1.0.0",
+  "description": "MRL 粒子母體系統接收、重建、轉驛站：接收外部資料，轉為 MRL_Particle，重建為 MRL_Mother_Packet，寫入 ledger，輸出給母體/AI 討論。",
+  "main": "src/MRL_RelayStation.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/MRL_RelayStation.js",
+    "demo": "node scripts/MRL_demo_ingest.js",
+    "check": "node scripts/MRL_acceptance_check.js"
+  },
+  "dependencies": {}
+}

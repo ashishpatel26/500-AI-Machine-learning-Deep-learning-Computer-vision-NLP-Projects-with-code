@@ -1,0 +1,14 @@
+{
+  "source": "MRL_Example",
+  "payload": {
+    "topic": "母體組合轉換器",
+    "purpose": "接收、粒子化、重建、轉驛、討論對齊",
+    "mapping": {
+      "receive": "MRL_Receive",
+      "particleize": "MRL_Particleize",
+      "reconstruct": "MRL_Reconstruct",
+      "relay": "MRL_Relay",
+      "ledger": "MRL_Ledger"
+    }
+  }
+}

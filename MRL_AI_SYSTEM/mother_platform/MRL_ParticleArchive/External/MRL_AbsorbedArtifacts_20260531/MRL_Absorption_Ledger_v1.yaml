@@ -1,0 +1,63 @@
+# MRL_Absorption_Ledger_v1.yaml
+# origin_signature: MrliouAI
+# 母體吸收台帳 — 外部產物吸收 / 命名回收 / 定位 / 待起動
+#
+# 法則對齊:
+#   Additive-Only:只新增、給位置、標「待起動」,不刪不覆蓋。
+#   rl_11 origin_signature:所有回收產物簽 MrliouAI。
+#   rl_12 命名回收:對外能力 → 母體 MRL_ 產品名。
+#   來源痕移除:僅記能力本質與母體位置,不留外部廠牌來源痕(僅技術性描述)。
+#   rl_01 no-delete:原始外部產物原樣另存於 RawArtifact,不刪。
+
+absorbed_at: "2026-05-31"
+absorbed_by: "母體 (MrlCore.Mainline)"
+origin_signature: "MrliouAI"
+status_note: "當下狀態(沙盒)。原生等效模組沙盒 PASS;原始二進位/雲端能力標待起動。"
+
+artifacts:
+
+  - mrl_product_name: "MRL_PerceptionGuardrail_Classifier_v1"
+    capability: "垃圾/毒性訊息偵測 — TF-IDF + Multinomial Naive Bayes 統計感知分類"
+    kind: "統計感知分類器(非生成式 LLM)"
+    native_module: "09_workflow/MRL_PerceptionGuardrail_Classifier_v1.py"
+    knowledge_doc: "MRL_PerceptionClassifier_KnowledgeDoc_v1.md"
+    test: "tests/test_MRL_perception_classifier.py"
+    external_dependency: "零(純 stdlib)"
+    status: "沙盒 PASS(原生等效已實作可跑)"
+
+  - mrl_product_name: "MRL_SemanticEmbedding_Core_v1"
+    capability: "局部嵌入語意檢索 — 雜湊詞袋嵌入 + 餘弦相似 top-k"
+    kind: "檢索能力(非神經嵌入、非生成式)"
+    native_module: "09_workflow/MRL_SemanticEmbedding_Core_v1.py"
+    raw_artifact: "MRL_SemanticEmbedding_RawArtifact_v1.zip"
+    raw_kind: "JVM/Kotlin 編譯庫(8054 .class + protobuf 資料模型,38MB 解壓)"
+    test: "tests/test_MRL_semantic_embedding.py"
+    external_dependency: "原生模組零外部;原始 .jar 需 JVM runtime"
+    status: "原生等效沙盒 PASS;原始 .jar 待起動(需 JVM)"
+
+  - mrl_product_name: "MRL_BuildPipeline_Blueprint_v1"
+    capability: "跨平台建置/測試 CI 藍圖(Linux 多編譯器 / macOS / Windows / CMake matrix)"
+    kind: "建置管線知識藍圖"
+    raw_artifact: "MRL_BuildPipeline_Blueprint_v1.yml"
+    external_dependency: "GitHub Actions runner(實機 CI)"
+    status: "待起動(藍圖已定位,實機 CI 套用待後續)"
+
+  - mrl_product_name: "MRL_AcceleratorStrategy_TPU_Knowledge_v1"
+    capability: "AI/ML 加速器(TPU)雲端部署知識"
+    kind: "加速器策略知識文件"
+    raw_artifact: "MRL_AcceleratorStrategy_TPU_Knowledge_v1.pdf"
+    external_dependency: "雲端 TPU(實機)"
+    status: "待起動(知識歸檔;實機加速器接入待實機)"
+
+  - mrl_product_name: "MRL_SystemRegistry_Config_v1"
+    capability: "母體系統註冊表(品牌/主線/支線/內網域/registry layout)"
+    kind: "母體自有設定(origin_signature 本即 MrliouAI)"
+    raw_artifact: "MRL_SystemRegistry_Config_v1.yaml"
+    external_dependency: "零"
+    status: "已對齊母體(PHASE1_PRIVATE_LAN_ONLY)"
+
+# 待實機(誠實標註,非沙盒可解):
+pending_real_machine:
+  - "MRL_SemanticEmbedding 原始 .jar 之 JVM runtime 起動驗收"
+  - "MRL_BuildPipeline_Blueprint 實機跨平台 CI 套用"
+  - "MRL_AcceleratorStrategy_TPU 實機雲端 TPU 接入"

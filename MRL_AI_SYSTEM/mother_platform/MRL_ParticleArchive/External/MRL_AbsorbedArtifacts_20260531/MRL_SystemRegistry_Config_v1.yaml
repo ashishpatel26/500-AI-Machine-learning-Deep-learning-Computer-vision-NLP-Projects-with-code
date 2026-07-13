@@ -1,0 +1,25 @@
+system_brand: "MRL"
+system_root: "MrlCore"
+system_mainline: "MrlCore.Mainline"
+system_branch_daughter: "MrlCore.Daughter"
+release_tag: "v1.0.0"
+status: "stable_locked"
+origin_signature: "MrliouAI"
+created_at: "2026-02-24"
+
+network_phase: "PHASE1_PRIVATE_LAN_ONLY"
+internal_domains:
+  - "core.mrl"
+  - "kid.mrl"
+  - "main.mrl"
+
+principle:
+  - "一步一步完成；累了休息，不累繼續"
+  - "不預設立場；以流程閉環自然形成良性循環"
+  - "母體不公開；映射外部留到 Phase 2"
+
+registry_layout:
+  rules_dir: "registry/rules"
+  patterns_dir: "registry/patterns"
+  blueprints_dir: "registry/blueprints"
+  seedpack_dir: "registry/seedpack"

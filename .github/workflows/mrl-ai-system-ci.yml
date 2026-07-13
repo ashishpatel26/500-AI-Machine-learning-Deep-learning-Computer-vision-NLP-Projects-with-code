@@ -1,0 +1,74 @@
+# MRL_AI_SYSTEM CI — protects the merged Stage 3 subtree from regressions.
+# origin_signature: MrliouAI
+#
+# Trigger: only when files under MRL_AI_SYSTEM/** (or this workflow itself)
+# change — unrelated AI/ML docs PRs in the rest of the monorepo are not gated.
+#
+# Runs `scripts/verify_all.sh`, which is the same command developers run
+# locally per MRL_AI_SYSTEM/README.md. It exercises:
+#   1. Node RelayStation acceptance test  (Node)
+#   2. trace_chain hash-chain probe        (Python stdlib)
+#   3. sig_verify Ed25519 roundtrip        (Python stdlib)
+#   4. Full pytest suite                    (13 tests, Python + pytest)
+
+name: MRL_AI_SYSTEM CI
+
+on:
+  pull_request:
+    paths:
+      - 'MRL_AI_SYSTEM/**'
+      - '.github/workflows/mrl-ai-system-ci.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'MRL_AI_SYSTEM/**'
+      - '.github/workflows/mrl-ai-system-ci.yml'
+
+concurrency:
+  # Cancel in-progress runs when a new commit lands on the same PR / branch.
+  group: mrl-ai-system-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: verify_all.sh
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+        # Note: no `cache: pip` — that option requires requirements.txt or
+        # pyproject.toml. We only install one small package (pytest); the
+        # cache-miss cost is negligible compared to the maintenance burden
+        # of a lockfile carried purely to satisfy the cache.
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pytest
+        run: python -m pip install --disable-pip-version-check pytest
+
+      - name: Show versions
+        run: |
+          python --version
+          node --version
+          pytest --version
+
+      - name: Run MRL_AI_SYSTEM verify_all.sh
+        run: bash MRL_AI_SYSTEM/scripts/verify_all.sh
+
+      - name: 命名律檢查 (rl_12)
+        run: bash MRL_AI_SYSTEM/scripts/check_naming_law.sh
